@@ -1,6 +1,6 @@
 # Deep Learning (Pytorch) Nanodegree 
 
-This repository contains projects of Udacity's Deep Learning NanoDegree.
+This repository contains projects that I have done as a part of Udacity's Deep Learning NanoDegree Course
 
 ## Table of Content
 
